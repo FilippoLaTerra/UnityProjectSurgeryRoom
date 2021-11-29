@@ -1,0 +1,48 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl aiStandardSurface10SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump operating_lamp_rusty\\textures\\aiStandardSurface10SG_normal.png
+map_Kd operating_lamp_rusty\\textures\\aiStandardSurface10SG_baseColor.png
+
+newmtl aiStandardSurface11SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump operating_lamp_rusty\\textures\\aiStandardSurface11SG_normal.png
+map_Kd operating_lamp_rusty\\textures\\aiStandardSurface11SG_baseColor.png
+
+newmtl aiStandardSurface12SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump operating_lamp_rusty\\textures\\aiStandardSurface12SG_normal.png
+map_Kd operating_lamp_rusty\\textures\\aiStandardSurface12SG_baseColor.png
+
+newmtl aiStandardSurface8SG
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 2
