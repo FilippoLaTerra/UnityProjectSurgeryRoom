@@ -8,8 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: monitor
-    second: {fileID: -2228690923170580510, guid: ab1ac5611ba1fe7499574bd7cfab02f0,
-      type: 3}
+    second: {fileID: 2100000, guid: 3b3772119ca5d844bb55b4186221c099, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
